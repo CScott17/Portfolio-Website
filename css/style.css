@@ -70,6 +70,8 @@ section {
   color: var(--main-color);
 }
 
+"""Home Section"""
+
 .home {
   display: flex;
   justify-content: center;
@@ -165,6 +167,8 @@ span {
   text-align: center;
 }
 
+"""About Section"""
+
 .about-img {
   position: relative;
   width: 25rem;
@@ -211,6 +215,8 @@ span {
 .inner {
   padding-top: 20px;
 }
+
+"""Skills Section"""
 
 .skills-header {
   font-size: 3rem;
@@ -311,6 +317,8 @@ span {
   width: 50px;
   z-index: 2;
 }
+
+"""Projects Section"""
 
 .projects h2 {
   margin-bottom: 4rem;
@@ -445,6 +453,8 @@ span {
 .work:hover .layer {
   height: 100%;
 } */
+
+"""Contact Section"""
 
 .contact {
   min-height: auto;
